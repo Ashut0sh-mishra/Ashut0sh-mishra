@@ -1,11 +1,61 @@
-### Ashutosh Mishra
-I'm Ashutosh from India, a coding enthusiast passionate about learning languages and frameworks such as Spring Boot and Java. I also enjoy working with JavaScript and creating frontend experiences. 
+# 👋 Hi, I'm Ashutosh Mishra
 
+🚀 AI Engineer | Backend Systems Engineer | Applied ML
+🇮🇳 India
 
+I build **AI-powered systems and scalable backend architectures** with a focus on performance, reliability, and real-world impact.
 
-### Skills and Experience
+---
 
-<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" class="dark-img" width="20" height="40"> **,**
-<img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" class="dark-img" width="50" height="50"> **,**
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot Logo" class="dark-img" width="30" height="30"> Spring Boot**,**
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" class="dark-img" width="30" height="30"> 
+## 🔬 Core Focus
+
+* Computer Vision & AI Systems
+* Backend Engineering (Spring Boot, FastAPI)
+* Real-time Inference Systems
+* Reproducible Machine Learning
+
+---
+
+## 🚀 Featured Work
+
+### 🌾 AgriDrone – AI Crop Disease Detection
+
+* YOLOv8 + FastAPI + React
+* **96.15% accuracy (21 classes)**
+* Statistical validation (McNemar test, bootstrap CI)
+* Identified **29× latency inefficiency**
+
+🔗 https://github.com/Ashut0sh-mishra/agri-drone
+
+---
+
+### 🤖 Reproducible RL Framework
+
+* Deterministic experiment pipeline (PyTorch)
+* Fully reproducible results across runs
+* Structured evaluation + logging system
+
+🔗 https://github.com/Ashut0sh-mishra/reproducible-sequential-decision-rl
+
+---
+
+## 🛠 Tech Stack
+
+Java • Spring Boot • FastAPI • Python • PyTorch • YOLO • React • Oracle • Redis • Docker
+
+---
+
+## 📊 What I Care About
+
+* Building production-ready AI systems
+* Performance optimization
+* Clean, scalable architecture
+* Reliable and reproducible results
+
+---
+
+## 📬 Connect
+
+* GitHub: https://github.com/Ashut0sh-mishra
+
+---
